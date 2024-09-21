@@ -1,8 +1,8 @@
 # Go-Rest-API
 
-This is a small rest api which demostrates cliet server communication using standard HTTP requests in Go lang
+This is a small rest API which demonstrates client-server communication using standard HTTP requests using Go language
 * GET
 * POST
 * PATCH
 
-User can get the esisting data in json format, add an item to it and updated it.
+Users can get the existing data in json format, add an item, and update it.
